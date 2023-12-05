@@ -13,7 +13,7 @@ using System.Runtime.InteropServices;
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("676ad6f3-ec5c-46c7-9745-db9282b23508")]
+[assembly: Guid("4d103c0f-f0d8-42f6-9a18-e59f8060b5e5")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

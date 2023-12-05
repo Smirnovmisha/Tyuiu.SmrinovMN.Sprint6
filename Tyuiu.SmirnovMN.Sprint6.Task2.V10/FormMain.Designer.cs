@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Tyuiu.SavenkovaME.Sprint6.Task2.V1.Lib;
 
-namespace Tyuiu.SavenkovaME.Sprint6.Task2.V1
+namespace Tyuiu.SmirnovMN.Sprint6.Task2.V10
 {
     public partial class FormMain : Form
     {
@@ -80,5 +80,12 @@ namespace Tyuiu.SavenkovaME.Sprint6.Task2.V1
         {
             MessageBox.Show("Таск 2 выполнила студент группы ИИПб-23-2 Савенкова М. Е.", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+        private GroupBox groupBox1;
+        private GroupBox groupBox2;
+        private TextBox textBox1;
+        private GroupBox groupBox3;
+        private ContextMenuStrip contextMenuStrip1;
+        private IContainer components;
+        private GroupBox groupBox4;
     }
 }
