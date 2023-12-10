@@ -68,5 +68,17 @@ namespace Tyuiu.SmirnovMN.Sprint6.Task2.V10
         {
             MessageBox.Show("Таск 2 выполнил студент группы ИИПб-23-3 Лебедев Игорь Владимирович", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
+
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // FormMain
+            // 
+            this.ClientSize = new System.Drawing.Size(1251, 880);
+            this.Name = "FormMain";
+            this.ResumeLayout(false);
+
+        }
     }
 }
